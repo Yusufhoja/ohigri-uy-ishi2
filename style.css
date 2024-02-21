@@ -1,0 +1,12 @@
+@media (max-width:800px){
+  nav a{
+    display: none;
+
+}
+.cardla{
+    flex-direction: column;
+}  
+.section3{
+    flex-direction: column;
+}
+}
